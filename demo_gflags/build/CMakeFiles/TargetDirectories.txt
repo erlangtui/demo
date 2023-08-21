@@ -1,0 +1,6 @@
+/Users/zhangliang/code/cpp/demo/demo_gflags/build/CMakeFiles/main.dir
+/Users/zhangliang/code/cpp/demo/demo_gflags/build/CMakeFiles/edit_cache.dir
+/Users/zhangliang/code/cpp/demo/demo_gflags/build/CMakeFiles/rebuild_cache.dir
+/Users/zhangliang/code/cpp/demo/demo_gflags/build/gflags/CMakeFiles/gflags_nothreads_static.dir
+/Users/zhangliang/code/cpp/demo/demo_gflags/build/gflags/CMakeFiles/edit_cache.dir
+/Users/zhangliang/code/cpp/demo/demo_gflags/build/gflags/CMakeFiles/rebuild_cache.dir

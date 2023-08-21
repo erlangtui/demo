@@ -13,4 +13,6 @@ cd mybuild
 cmake ..
 make
 ./main
-
+./main --version
+./main --help
+./main --port=99999
