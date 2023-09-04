@@ -1,3 +1,5 @@
 mybuild
 demo_gflags/gflags/
 .vscode
+.DS_Store
+demo_gflags/build/
