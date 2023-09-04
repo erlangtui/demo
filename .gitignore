@@ -3,3 +3,4 @@ demo_gflags/gflags/
 .vscode
 .DS_Store
 *.out
+demo_gflags/build/
