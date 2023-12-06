@@ -100,6 +100,10 @@ int main(int argc, char **argv)
     MyClass b(data, 3, "b");
     // 执行拷贝构造函数
     MyClass c = a; // important
+    
+    std::cout << "=====" << std::endl;
+    MyClass n = MyClass(data, 5, "m");
+    std::cout << "+++++" << std::endl;
     // 执行拷贝构造函数
     MyClass d(a);
     // 执行移动构造函数
